@@ -4,6 +4,8 @@
 
 This application illustrates the usage of Mermaid diagrams inside a React application. For further usage info, please visit [Mermaid.JS Docs](https://mermaid.js.org/intro/).
 
+For further information, please check [MERMAID.md](MERMAID.md).
+
 ## Application Tech Stack
 
 -   `React` framework (with Typescript) for the overall application development;
